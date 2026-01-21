@@ -1,0 +1,102 @@
+[33mcommit 82a46658a8cd29c279d33cec9315b4ac625b8650[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: c68e3ca b5291ee
+Author: Manuel Garcia-Arevalo Peinado <mgarpei2905@iesfuengirola1.es>
+Date:   Wed Jan 21 20:50:21 2026 +0100
+
+    Merge branch 'main' of https://github.com/juanraprofe/examen-git-intermedio
+
+[33mcommit c68e3caf5d9cb3055318ba5ac61d64a128bd7432[m
+Author: Manuel Garcia-Arevalo Peinado <mgarpei2905@iesfuengirola1.es>
+Date:   Wed Jan 21 20:26:34 2026 +0100
+
+    Manuel Garcia-Arevalo Peinado: Abrir archivo lista_clase.md y cambiar nombre en mi respectiva linea por Manuel
+
+[33mcommit 817bcdb879d8ef70192e177ac370d2345d65ee6e[m
+Author: Manuel Garcia-Arevalo Peinado <mgarpei2905@iesfuengirola1.es>
+Date:   Wed Jan 21 19:58:43 2026 +0100
+
+    Manuel Garcia-Arevalo Peinado: Crear nuevo archivo meIgnoras.txt y conseguir que git lo rastree
+
+[33mcommit b5291ee98562e4befeed5166ccd8eb4d7d5b4d05[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Wed Jan 21 19:57:25 2026 +0100
+
+    Update README.md
+
+[33mcommit 996c101eda97251b04555b353b128b3166ae4262[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Wed Jan 21 19:56:15 2026 +0100
+
+    Update README.md
+
+[33mcommit 489594ca6ebc59ca2b5d0566448564807e7ed750[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Wed Jan 21 19:47:23 2026 +0100
+
+    Update README.md
+
+[33mcommit ddcb87fd56adfb6615f4874024de85945df4b000[m
+Author: Manuel Garcia-Arevalo Peinado <mgarpei2905@iesfuengirola1.es>
+Date:   Wed Jan 21 19:45:21 2026 +0100
+
+    Manuel Garcia-Arevalo Peinado: Crear archivo notas.md y añadir notas iniciales
+
+[33mcommit 5346c7530eaa53d30cb23f746502d783d0c7ebf4[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Wed Jan 21 19:20:56 2026 +0100
+
+    Update lista_clase.md para generar conflicto
+
+[33mcommit 1eee3ec5a409dce8dc20ba2105e4fee83c72a31c[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Wed Jan 21 18:48:28 2026 +0100
+
+    Update cheatsheet.txt
+
+[33mcommit 88131a68aaf453ef064192cf183e3771a40743ff[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Wed Jan 21 18:42:11 2026 +0100
+
+    Update README.md hasta ejercicio 8
+
+[33mcommit 133e273a531dda3a2f2d80a47e86cadeff131b22[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:29:38 2026 +0100
+
+    Create assets
+
+[33mcommit 27b81b8d7378d74da5f490aa06302976abd9e00e[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:28:24 2026 +0100
+
+    Create notas.md
+
+[33mcommit c71a13ea0d5ecd2149f2f2437af122a775a2f578[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:21:42 2026 +0100
+
+    Create examen.py
+
+[33mcommit a0d39254f57dda9becd528c13d7391c6315ebdf5[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:19:13 2026 +0100
+
+    Create lista_clase.md
+
+[33mcommit 8eb192b50e0052315f7dc3b6c48aa0114a348261[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:11:09 2026 +0100
+
+    Create cheatsheet.txt
+
+[33mcommit ae21ad302bba23bc4d82de11abaa108bbe3bbabc[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 19:44:36 2026 +0100
+
+    Update .gitignore
+
+[33mcommit b2ca53a45fc4581e206e5372eb72c24281f6af6b[m
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 19:43:39 2026 +0100
+
+    Initial commit
