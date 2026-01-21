@@ -1,0 +1,36 @@
+.: LISTADO DE ALUMNOS -
+<<<<<<< HEAD
+Ayl, NOMBRE
+Crmn, NOMBRE
+Drnd, NOMBRE
+Spñ, NOMBRE
+Grc-Arvl, Manuel
+Gmz, NOMBRE
+Gnzlz, NOMBRE
+Hgr, NOMBRE
+Lpz, NOMBRE
+Mzcs, NOMBRE
+Mlln, NOMBRE
+Msv, NOMBRE
+Pstg, NOMBRE
+Pzs, NOMBRE
+Sntstbn, NOMBRE
+Slv, NOMBRE
+=======
+Ayl, -NOMBRE-
+Crmn, -NOMBRE-
+Drnd, -NOMBRE-
+Spñ, -NOMBRE-
+Grc-Arvl, -NOMBRE-
+Gmz, -NOMBRE-
+Gnzlz, -NOMBRE-
+Hgr, -NOMBRE-
+Lpz, -NOMBRE-
+Mzcs, -NOMBRE-
+Mlln, -NOMBRE-
+Msv, -NOMBRE-
+Pstg, -NOMBRE-
+Pzs, -NOMBRE-
+Sntstbn, -NOMBRE-
+Slv, -NOMBRE-
+>>>>>>> b5291ee98562e4befeed5166ccd8eb4d7d5b4d05

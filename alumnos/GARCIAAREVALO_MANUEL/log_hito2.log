@@ -1,0 +1,59 @@
+commit ddcb87fd56adfb6615f4874024de85945df4b000
+Author: Manuel Garcia-Arevalo Peinado <mgarpei2905@iesfuengirola1.es>
+Date:   Wed Jan 21 19:45:21 2026 +0100
+
+    Manuel Garcia-Arevalo Peinado: Crear archivo notas.md y añadir notas iniciales
+
+commit 1eee3ec5a409dce8dc20ba2105e4fee83c72a31c
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Wed Jan 21 18:48:28 2026 +0100
+
+    Update cheatsheet.txt
+
+commit 88131a68aaf453ef064192cf183e3771a40743ff
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Wed Jan 21 18:42:11 2026 +0100
+
+    Update README.md hasta ejercicio 8
+
+commit 133e273a531dda3a2f2d80a47e86cadeff131b22
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:29:38 2026 +0100
+
+    Create assets
+
+commit 27b81b8d7378d74da5f490aa06302976abd9e00e
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:28:24 2026 +0100
+
+    Create notas.md
+
+commit c71a13ea0d5ecd2149f2f2437af122a775a2f578
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:21:42 2026 +0100
+
+    Create examen.py
+
+commit a0d39254f57dda9becd528c13d7391c6315ebdf5
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:19:13 2026 +0100
+
+    Create lista_clase.md
+
+commit 8eb192b50e0052315f7dc3b6c48aa0114a348261
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 20:11:09 2026 +0100
+
+    Create cheatsheet.txt
+
+commit ae21ad302bba23bc4d82de11abaa108bbe3bbabc
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 19:44:36 2026 +0100
+
+    Update .gitignore
+
+commit b2ca53a45fc4581e206e5372eb72c24281f6af6b
+Author: JuanRa <99299434+juanraprofe@users.noreply.github.com>
+Date:   Tue Jan 20 19:43:39 2026 +0100
+
+    Initial commit
